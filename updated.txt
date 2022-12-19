@@ -1,0 +1,34 @@
+-----------------------------------------------
+#[0]	word is	[are]:	File Count is 1 file/s:    	File is f1.txt:	Word Count is 1	
+
+#[0]	word is	[also]:	File Count is 1 file/s:    	File is f2.txt:	Word Count is 1	
+
+#[3]	word is	[doing]:	File Count is 2 file/s:    	File is f1.txt:	Word Count is 1		File is f2.txt:	Word Count is 1	
+
+#[6]	word is	[good]:	File Count is 1 file/s:    	File is f2.txt:	Word Count is 1	
+
+#[7]	word is	[hey]:	File Count is 1 file/s:    	File is f1.txt:	Word Count is 1	
+
+#[7]	word is	[hi]:	File Count is 2 file/s:    	File is f1.txt:	Word Count is 1		File is f2.txt:	Word Count is 1	
+
+#[7]	word is	[how]:	File Count is 1 file/s:    	File is f1.txt:	Word Count is 1	
+
+#[7]	word is	[hope]:	File Count is 1 file/s:    	File is f2.txt:	Word Count is 1	
+
+#[24]	word is	[you]:	File Count is 2 file/s:    	File is f1.txt:	Word Count is 1		File is f2.txt:	Word Count is 1	
+
+---------------------------------------------------
+-----------------------------------------------
+#[0]	word is	[are]:	File Count is 1 file/s:    	File is f1.txt:	Word Count is 1	
+
+#[3]	word is	[doing]:	File Count is 1 file/s:    	File is f1.txt:	Word Count is 1	
+
+#[7]	word is	[hey]:	File Count is 1 file/s:    	File is f1.txt:	Word Count is 1	
+
+#[7]	word is	[hi]:	File Count is 1 file/s:    	File is f1.txt:	Word Count is 1	
+
+#[7]	word is	[how]:	File Count is 1 file/s:    	File is f1.txt:	Word Count is 1	
+
+#[24]	word is	[you]:	File Count is 1 file/s:    	File is f1.txt:	Word Count is 1	
+
+---------------------------------------------------
