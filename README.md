@@ -1,2 +1,0 @@
-# Inverted-search
-Data structures
